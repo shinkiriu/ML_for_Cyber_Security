@@ -1,7 +1,7 @@
 # ML_for_Cyber_Security
 <div align="center"> 
   
-# Lab 2 Readme
+# Lab 2
 
 #### Jianhao Li
 
