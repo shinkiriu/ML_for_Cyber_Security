@@ -24,4 +24,7 @@ The following two graphs show the results of testing on original model and G mod
 <img src="https://user-images.githubusercontent.com/48248780/206644788-1935d3a2-88e1-4c45-b03d-8cc30f77395c.png" align="center" height="300">
 
 <img src="https://user-images.githubusercontent.com/48248780/206645178-80fb0fcc-03cb-4093-875e-51f9e690db32.png" align="center" height="300">
+
+<img src="https://user-images.githubusercontent.com/48248780/206650269-608151ae-e582-40e9-b2f8-c2119e7d7f34.png" align="center" height="300">
+
 </p>
